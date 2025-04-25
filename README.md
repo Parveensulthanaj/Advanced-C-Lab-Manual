@@ -98,6 +98,7 @@ Thus, the program for passing structure as function and returning a structure fr
 To write a C program to read a file name from user
 
 ## Algorithm:
+
 1.	Include the necessary header file stdio.h.
 2.	Begin the main function.
 3.	Declare a file pointer p.
@@ -148,6 +149,7 @@ Thus, the program to read a file name from user is verified successfully
 ## Aim:
 To write a C program to read, a file and insert text in that file
 ## Algorithm:
+
 1.	Include the necessary header file stdio.h.
 2.	Begin the main function.
 3.	Declare a file pointer p.
@@ -163,6 +165,7 @@ Use scanf to input the file name into the name array and the number of strings i
 3.	Print a message indicating that data has been added successfully.
 4.	End the main function.
 5.	Return 0 to indicate successful program execution.
+
 ## Program:
 ```
 #include <stdio.h> int main()
@@ -210,7 +213,7 @@ The aim of this program is to dynamically allocate memory to store information a
 
 6.Input the details of each subject
 
-      7.Use a for loop to read the name and marks of each subject using scanf. For each   subject, store the name as a string and marks as an integer in the dynamically allocated memory.
+7.Use a for loop to read the name and marks of each subject using scanf. For each   subject, store the name as a string and marks as an integer in the dynamically allocated memory.
 
 8.Display the details of each subject
 
@@ -225,7 +228,7 @@ The aim of this program is to dynamically allocate memory to store information a
 13.End the program by returning 0.
 
 ## Program:
-
+```
 #include <stdio.h>
 #include <stdlib.h>
 struct Subject
@@ -256,7 +259,7 @@ int main()
     
     return 0;
 }
-
+```
 ## Output:
 
  
