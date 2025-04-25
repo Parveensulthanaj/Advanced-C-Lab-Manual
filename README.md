@@ -16,7 +16,7 @@ Else
 6.	Return 0
  
 ## Program:
-
+```
 #include<stdio.h> struct eligib
 {
 int age; char n[4];
@@ -38,6 +38,7 @@ printf("Age:%d\nName:%svaccine:%d\neligibility:yes",e.age,e.n,e.age);
  
 
 }
+```
 ## OUTPUT
 
 ![exp1 c](https://github.com/user-attachments/assets/0509c342-f059-42b1-ac3c-7b495bc43d89)
