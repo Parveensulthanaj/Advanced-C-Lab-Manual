@@ -87,6 +87,7 @@ int main()
 {
 int n,k; scanf("%d%d",&n,&k); calculate_the_max(n,k);
 }
+```
 ## Output:
 
  ![Screenshot 2025-04-26 205847](https://github.com/user-attachments/assets/36e7cea7-b74e-4d97-9e32-c8546cd4b50c)
