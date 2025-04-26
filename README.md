@@ -95,7 +95,7 @@ int n,k; scanf("%d%d",&n,&k); calculate_the_max(n,k);
 ## Result:
 Thus, the program to print the maximum values for the AND, OR and XOR comparisons
 is verified successfully.
- ```
+ 
 ## EXP NO:5C  C PROGRAM TO WRITE THE LOGIC FOR THE REQUESTS
 ## Aim:
 To write a C program to write the logic for the requests
