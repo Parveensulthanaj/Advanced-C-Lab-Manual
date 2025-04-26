@@ -90,7 +90,7 @@ To write a C program to print ten space-separated integers in a single line deno
 5.	Increment h to move to the next digit
 6.	End
  
-Program: 
+## Program: 
 ```
 #include<stdio.h> #include<string.h> int main()
 {
